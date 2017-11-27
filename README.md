@@ -23,4 +23,16 @@ El objetivo de este reto es elaborar un sketch de un dashboard para Laboratoria.
 - Promedio de notas HSE
 - Promedio de notas técnicas
 
-Dado que Laboratoria tiene muchas generaciones, regularmente 2 generaciones por año (estas generaciones empezaron en el 2014), y que opera en 4 sedes (Arequipa, Ciudad de México, Lima y Santiago de Chile), es posible que los usuarios quieran ver datos de sedes / generaciones anteriores para poder hacer comparaciones.
+- Dado que Laboratoria tiene muchas generaciones, regularmente 2 generaciones por año (estas generaciones empezaron en el 2014), y que opera en 4 sedes (Arequipa, Ciudad de México, Lima y Santiago de Chile), es posible que los usuarios quieran ver datos de sedes / generaciones anteriores para poder hacer comparaciones.
+
+## **Sketch**
+
+![Dashboard](assets/images/dashboard1.jpg)
+
+![Gráfico de Alumnas que pasaron el Criterio Mínimo de Evaluación](assets/images/dashboard3.jpg)
+
+- Coloqué está imagen para que puedan verse los datos númericos del gráfico a la izquierda de la zona inferior del dashboard que no se pudieron ver por el flash de la cámara.
+
+![Menú Hamburguesa](assets/images/dashboard2.jpg)
+
+- Esto aparce al hacer click al ícono de las tres barras.
