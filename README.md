@@ -35,4 +35,4 @@ El objetivo de este reto es elaborar un sketch de un dashboard para Laboratoria.
 
 ![Menú Hamburguesa](assets/images/dashboard2.jpg)
 
-- Esto aparce al hacer click al ícono de las tres barras.
+- Esto aparece al hacer click al ícono de las tres barras.
